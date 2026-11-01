@@ -1,4 +1,4 @@
-# Toy Keyboard MIDI Adapter
+# Toy Piano MIDI Adapter
 
 An open-source project to convert a cheap 54-key children's toy keyboard into a native USB MIDI controller using an **Arduino Micro** (ATmega32U4).
 
@@ -26,6 +26,3 @@ An open-source project to convert a cheap 54-key children's toy keyboard into a 
 3. Select board: **Arduino Micro**.
 4. Upload the sketch.
 5. Connect to your favorite DAW (Ableton, FL Studio, Reaper, Numaplayer) and play!
-
-## License
-MIT License
